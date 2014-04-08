@@ -105,7 +105,9 @@ Par [Cédric Lombardot](https://twitter.com/cedriclombardot) disponible sur Goog
 
 ### Ingénierie inversée du composant « Form » 
 
-Par [Sarah Khalil](https://twitter.com/Saro0h) et [Hugo Hamon](https://twitter.com/hhamon) non trouvée
+Par [Sarah Khalil](https://twitter.com/Saro0h) et [Hugo Hamon](https://twitter.com/hhamon) disponible sur SpeakerDeck :
+
+[https://speakerdeck.com/hhamon/ingenierie-inversee-du-composant-form-de-symfony](https://speakerdeck.com/hhamon/ingenierie-inversee-du-composant-form-de-symfony)
 
 ### Comment développer un helpdesk pour gérer des millions d'utilisateurs avec Symfony & Amazon dynamoDB 
 
