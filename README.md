@@ -61,8 +61,9 @@ Par [Jérôme Vieilledent](https://github.com/lolautruche), disponible sur Githu
 
 ### PHP optimisations et OPCache 
 
-Par [Julien Pauli](https://twitter.com/julienPauli), présentation non trouvée pour l'instant, mais il y a une vidéo YouTube
-de la même présentation au PHP UK Conference 2014 : [https://www.youtube.com/watch?v=pxW5WdKmprs](https://www.youtube.com/watch?v=pxW5WdKmprs) 
+Par [Julien Pauli](https://twitter.com/julienPauli) disponible sur SlideShare : 
+
+[http://fr.slideshare.net/jpauli/yoopee-cache-op-cache-internals](http://fr.slideshare.net/jpauli/yoopee-cache-op-cache-internals)
 
 ### Du SSO via OAuth pour mieux découpler votre application 
 
