@@ -1,4 +1,3 @@
-
 # Symfony Live Paris 2014
 
 Ce projet contient les différentes ressources que j'ai pu noter et/ou récupérer durant le [Symfony Live](http://paris2014.live.symfony.com/) à Paris les 7 et 8 Avril 2014.
@@ -79,7 +78,9 @@ Par [Geoffrey Bachelet](https://twitter.com/ubermuda) disponible sur SpeakerDeck
 
 ### Gearman - big data without Hadoop 
 
-Par [Guillaume Cavana](https://github.com/gcavana) non trouvée
+Par [Guillaume Cavana](https://github.com/eljam) disponible sur SpeakerDeck :
+
+[https://speakerdeck.com/eljam/gearman-big-data-without-hadoop](https://speakerdeck.com/eljam/gearman-big-data-without-hadoop)
 
 ### La Migration continue vers Symfony: l'agilité sans feuille blanche 
 
