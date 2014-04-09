@@ -75,7 +75,7 @@ Par [Matthieu Moquet](http://moquet.net/) disponible sur son site :
 
 Par [Geoffrey Bachelet](https://twitter.com/ubermuda) disponible sur SpeakerDeck :
 
-[https://speakerdeck.com/ubermuda/docker-introduction](https://speakerdeck.com/ubermuda/docker-introduction)
+[https://speakerdeck.com/ubermuda/a-multi-container-symfony2-setup-with-docker](https://speakerdeck.com/ubermuda/a-multi-container-symfony2-setup-with-docker)
 
 ### Gearman - big data without Hadoop 
 
