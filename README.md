@@ -85,7 +85,7 @@ Par [Guillaume Cavana](https://github.com/eljam) disponible sur SpeakerDeck :
 
 ### La Migration continue vers Symfony: l'agilité sans feuille blanche 
 
-Par [François Zaninotto](https://twitter.com/francoisz) disponible sur SlideShare : 
+Par [François Zaninotto](https://twitter.com/francoisz) et [Simon Rolland](https://twitter.com/SiM07) disponible sur SlideShare : 
 
 [http://fr.slideshare.net/francoisz/la-migration-continue-vers-symfony](http://fr.slideshare.net/francoisz/la-migration-continue-vers-symfony)
 
