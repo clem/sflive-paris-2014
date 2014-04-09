@@ -94,9 +94,9 @@ Par [Alexandre Salomé](https://github.com/alexandresalome) disponible sur Githu
 
 ### Symfony2 et Microsoft Azure, l'efficacité de PHP dans le cloud 
 
-Par [Stéphane Escandell](https://connect.sensiolabs.com/profile/sescandell), non trouvée mais similaire à celle sur SlideShare :
+Par [Stéphane Escandell](https://connect.sensiolabs.com/profile/sescandell) disponible sur SlideShare :
 
-[http://fr.slideshare.net/Developpeurs/symfony2-et-microsoft-azure-lefficacit-de-php-dans-le-cloud](http://fr.slideshare.net/Developpeurs/symfony2-et-microsoft-azure-lefficacit-de-php-dans-le-cloud)
+[http://fr.slideshare.net/stephaneesc/symfony-live-paris-2014-symfony2-sur-azure](http://fr.slideshare.net/stephaneesc/symfony-live-paris-2014-symfony2-sur-azure)
 
 ### Ma première one page app avec une api rest hateoas symfony et un front ember.js 
 
